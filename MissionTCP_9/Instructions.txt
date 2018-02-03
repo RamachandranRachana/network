@@ -1,0 +1,35 @@
+System Configurations:
+
+Operating System: Windows 10
+Programming Language: Python
+IDE used: IDLE( Python 3.5 32-bit)
+
+Instructions:
+
+Step1: Run Ann
+Step2: Run all routers
+Step3: Run either Chan or Jan. A 3way handshake takes place between Aan and Chan or Jan. 
+
+Mission Objective:
+
+1. A sys packet is transmitted from Ann to Chan or from Ann to Jan.The communication is logged into files.
+The packet drops.
+Since it drops; no acknowledgement is received.
+The packet is retransmitted.
+
+2. Chan sends the 5th packet to Ann.After the packet is sent, Ann realises something is wrong with Chan
+Ann terminates Chan. Jan enquires what happend to chan
+Ann sends a warning message to jan. Restart all
+
+
+3.The Target is Tar@(32° 43’ 22.77” N,97° 9’ 7.53” W)
+Jan identifies the location of the file @ (32° 43’ 22.77” N,97° 9’ 7.53” W)
+The input from Jan is the TarAt32° 43’ 22.77” N,97° 9’ 7.53” W
+A sequence of operations follow to terminate the target
+
+
+
+Project Members
+1. Rachana Ramachandran(1001350452)
+2. Apoorva Karkhanis(1001167312)
+
